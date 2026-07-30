@@ -1,12 +1,12 @@
 {
   "renan_photon_plugin": {
-    "latest": "1.1",
+    "latest": "1.1.1",
     "changes": [
-      "Fixed display and name-cutting bugs in the \"Find Usages\" tool",
-      "Improved multi-window support so workspaces run independently",
-      "Prevented screen freezes during backups and exports by running them in the background",
-      "Improved error logs to save full troubleshooting details",
-      "Enhanced usage search system"
+      "Prevention of menu duplication in the resources tab",
+      "Added support for MCreator 2024.2",
+      "Updated LDLib2 API to version 2.2.31",
+      "Redesigned Backup and Log icons",
+      "Minor improvements"
     ]
   }
 }
