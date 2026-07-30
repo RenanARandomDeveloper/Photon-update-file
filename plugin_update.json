@@ -2,7 +2,7 @@
   "renan_photon_plugin": {
     "latest": "1.1.1",
     "changes": [
-      "Prevention of menu duplication in the resources tab",
+      "Prevention of Photon menu duplication in the resources tab",
       "Added support for MCreator 2024.2",
       "Updated LDLib2 API to version 2.2.31",
       "Redesigned Backup and Log icons",
