@@ -1,10 +1,9 @@
 {
   "renan_photon_plugin": {
-    "latest": "1.1.3",
+    "latest": "1.1.4",
     "changes": [
-      "Fixed an issue where workspace plugin classes were not generated in MCreator 2024, implementing a robust fail-safe mechanism to prevent recurrence",
-      "Enhanced logging system and bug fixes",
-      "Minor fixes"
+      "Fixed auto-rotate error on 1.20.1",
+      "Fixed incompatibility with Nerdy's Player Animator caused by update 1.1.2 of the Photon plugin"
     ]
   }
 }
