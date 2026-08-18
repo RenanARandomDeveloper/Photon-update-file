@@ -1,15 +1,10 @@
 {
   "renan_photon_plugin": {
-    "latest": "2.0",
+    "latest": "2.0.1",
     "changes": [
-      "Refactored and optimized the menu, backup, and logging systems",
-      "Resolved bugs across the menu, backup, and log systems, with a particular focus on the FX menu",
-      "Improvements and fixes to the JS code and Java files regarding the plugin's blocky system",
-      "Added compatibility for version 26.1.2 Neoforge",
-      "Added new procedure blocks to modify the scale, rotation, and offset of already spawned Photon particles",
-      "Updated LDLib2 API to version 2.2.35",
-      "Updated Photon2 API to version 2.2.4",
-      "Minor improvements and other bug fixes"
+      "Fixed compilation errors caused by specific mod names",
+      "Updated LDLib2 API  to version 2.2.36",
+      "Minor improvement"
     ]
   }
 }
