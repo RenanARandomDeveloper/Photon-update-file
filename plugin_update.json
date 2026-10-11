@@ -1,10 +1,20 @@
 {
   "renan_photon_plugin": {
-    "latest": "2.0.1",
+    "latest": "3.0",
     "changes": [
-      "Fixed compilation errors caused by specific mod names",
-      "Updated LDLib2 API  to version 2.2.36",
-      "Minor improvement"
+      "Added a preview system for FX, FXPacks, and FXProjs",
+      "Added support for FXPacks within procedure blocks",
+      "Added compatibility for NeoForge version 26.2",
+      "Updated LDLib2 API (1.21.1) to version 2.2.42",
+      "Updated Photon2 API (1.21.1) to version 2.2.8",
+      "Updated LDLib2 API (26.1.2) to version 26.1.2.42",
+      "Updated Photon2 API (26.1.2) to version 26.1.2.3",
+      "Implemented performance, and reliability optimizations across all systems",
+      "Improvements and fixes to JavaScript files and the plugin's Blockly system",
+      "Resolved a bug where the Find Usages tool failed to detect effects referenced in modify effect blocks",
+      "General bug fixes and preventive enhancements",
+      "Minor improvements",
+      "Minor fixes"
     ]
   }
 }
