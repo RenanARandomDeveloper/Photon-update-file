@@ -1,11 +1,11 @@
 {
   "renan_photon_plugin": {
-    "latest": "3.0.1",
+    "latest": "3.0.2",
     "changes": [
-      "Rewritten the AssetPlacement system based on recent updates",
-      "Fixed a bug causing text clipping in procedure blocks when using Portuguese (PT-BR)",
-      "Added the shader menu for NeoForge versions (1.21.1, 26.1.2, and 26.2)",
-      "Added support for importing .vsh files into the shader menu"
+      "Fixed a bug that prevented FXPacks from being summon, remove, check, or modify by procedure blocks when located inside a folder",
+      "Switched the FXPack menu system to a virtual menu system",
+      "Added validation to prevent FX and FXPack entries from being added to the Blockly effects list",
+      "Added a rule to AssetPlacement that prohibits real subfolders from existing inside the fxpacks folder"
     ]
   }
 }
