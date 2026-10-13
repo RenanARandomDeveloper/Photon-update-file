@@ -4,7 +4,7 @@
     "changes": [
       "Fixed a bug that prevented FXPacks from being summon, remove, check, or modify by procedure blocks when located inside a folder",
       "Switched the FXPack menu system to a virtual menu system",
-      "Added validation to prevent FX and FXPack incorrect entries from being added to the Blockly effects list",
+      "Added validation so that only effects located directly in the fx folder and fxpack entries with valid paths are added to the Blockly effects list",
       "Added a rule to AssetPlacement that prohibits real subfolders from existing inside the fxpacks folder"
     ]
   }
