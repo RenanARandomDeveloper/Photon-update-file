@@ -1,8 +1,8 @@
 {
   "renan_photon_plugin": {
-    "latest": "3.0.3",
+    "latest": "3.0.4",
     "changes": [
-      "Fixed incompatibility with Nerdy's Sky Renderer plugin in version 26.1.2 Neoforge",
+      "Fixed incompatibility with Nerdy's Player Animator plugin in version 26.1.2 Neoforge",
     ]
   }
 }
